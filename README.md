@@ -34,3 +34,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## informations
+
+📚 Materials:
+Clerk Docs:
+
+- Get started: https://clerk.com/docs/quickstarts/nextjs
+- Sign-in & Sign-up pages: https://clerk.com/docs/references/nextjs/custom-signup-signin-pages
+- Webhooks: https://clerk.com/docs/integrations/webhooks/sync-data#sync-clerk-data-to-your-backend-with-webhooks
+
+React-Hook-Form: https://react-hook-form.com/get-started
+
+## Commands
+
+npm i @clerk/nextjs mongoose react-hook-form @mui/icons-material @emotion/react @emotion/styled
+npm i @clerk/themes
+npm install svix
