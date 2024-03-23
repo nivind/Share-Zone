@@ -51,3 +51,4 @@ React-Hook-Form: https://react-hook-form.com/get-started
 npm i @clerk/nextjs mongoose react-hook-form @mui/icons-material @emotion/react @emotion/styled
 npm i @clerk/themes
 npm install svix
+npm install mongodb
